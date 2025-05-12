@@ -1,0 +1,221 @@
+{
+    "ingredients": [
+      {
+        "name": "Milk",
+        "category": "Liquid",
+        "swaps": [
+          {
+            "substitute": "Almond milk",
+            "notes": "Great 1:1 substitute. Slight nutty flavor."
+          },
+          {
+            "substitute": "Oat milk",
+            "notes": "Creamy and slightly sweet. Good for baking."
+          }
+        ]
+      },
+      {
+         "name": "Egg",
+         "category": "Binding",
+         "swaps": [
+          {
+             "substitute": "1 tablespoon ground flaxseed + 3 tablespoons water",
+             "notes": "Mix and let sit for 5 minutes. Great for cookies and cakes. Vegan-friendly."
+          },
+          {
+            "substitute": "1/4 cup unsweetened applesauce",
+            "notes": "Best for moist cakes and muffins. May make texture softer."
+          },
+          {
+            "substitute": "1/4 cup mashed banana",
+            "notes": "Adds a slight banana flavor. Great in pancakes and brownies."
+          }
+        ]
+      },
+      {
+        "name": "Sugar",
+        "category": "Sweetener",
+        "swaps": [
+          {
+            "substitute": "Honey",
+            "notes": "Use 3/4 amount and reduce liquid slightly."
+          },
+          {
+            "substitute": "Maple syrup",
+            "notes": "Use 3/4 amount. Adds slight maple flavor."
+          }
+        ]
+      },
+      {
+        "name": "All-purpose Flour",
+        "category": "Flour",
+        "swaps": [
+          {
+            "substitute": "Almond flour",
+            "notes": "Lower carb. Absorbs more liquid; adjust recipe."
+          },
+          {
+            "substitute": "Whole wheat flour",
+            "notes": "Denser texture. Use 3/4 cup whole wheat for 1 cup AP."
+          }
+        ]
+      },
+      {
+        "name": "Heavy Cream",
+        "category": "Dairy",
+        "swaps": [
+          {
+            "substitute": "3/4 cup milk + 1/4 cup butter",
+            "notes": "Mix well. Works in most baking and cooking."
+          },
+          {
+            "substitute": "Coconut cream",
+            "notes": "Dairy-free alternative. Adds coconut flavor."
+          }
+        ]
+      },
+      {
+        "name": "Cornstarch",
+        "category": "Thickener",
+        "swaps": [
+          {
+            "substitute": "Arrowroot powder",
+            "notes": "Use same amount. Good for glossy sauces."
+          },
+          {
+            "substitute": "Tapioca starch",
+            "notes": "Similar texture, slightly sweeter."
+          }
+        ]
+      },
+      {
+        "name": "Chocolate Chips",
+        "category": "Chocolate",
+        "swaps": [
+          {
+            "substitute": "Chopped chocolate bar",
+            "notes": "Same amount. May melt more unevenly."
+          },
+          {
+            "substitute": "Cacao nibs",
+            "notes": "Less sweet and crunchier."
+          }
+        ]
+      },
+      {
+        "name": "Brown Sugar",
+        "category": "Sweetener",
+        "swaps": [
+          {
+            "substitute": "White sugar + 1 tablespoon molasses",
+            "notes": "Mix well. Mimics brown sugar perfectly."
+          }
+        ]
+      },
+      {
+        "name": "Baking Powder",
+        "category": "Leavening",
+        "swaps": [
+          {
+            "substitute": "1/4 tsp baking soda + 1/2 tsp cream of tartar",
+            "notes": "Mix together to replace 1 tsp baking powder."
+          }
+        ]
+      },
+      {
+        "name": "Buttermilk",
+        "category": "Dairy",
+        "swaps": [
+          {
+            "substitute": "1 cup milk + 1 tablespoon lemon juice",
+            "notes": "Let sit 5 minutes before using."
+          }
+        ]
+      },
+      {
+        "name": "Yogurt",
+        "category": "Dairy",
+        "swaps": [
+          {
+            "substitute": "Sour cream",
+            "notes": "Similar thickness and tanginess."
+          },
+          {
+            "substitute": "Buttermilk",
+            "notes": "Use slightly less buttermilk for thicker consistency."
+          }
+        ]
+      },
+      {
+        "name": "Butter",
+        "category": "Fat",
+        "swaps": [
+          {
+            "substitute": "1/4 cup coconut oil",
+            "notes": "Use solid at room temp for similar texture. Slight coconut flavor."
+          },
+          {
+            "substitute": "1/4 cup vegetable oil",
+            "notes": "Works for cakes and muffins. Results in softer texture."
+          }
+        ]
+      },
+      {
+        "name": "Vegetable Oil",
+        "category": "Fat",
+        "swaps": [
+          {
+            "substitute": "Melted butter",
+            "notes": "Adds richer flavor. May change texture slightly."
+          },
+          {
+            "substitute": "Applesauce",
+            "notes": "Use half the amount for lower-fat baking."
+          }
+        ]
+      },
+      {
+        "name": "Honey",
+        "category": "Sweetener",
+        "swaps": [
+          {
+            "substitute": "Maple syrup",
+            "notes": "Same amount. Lighter flavor."
+          },
+          {
+            "substitute": "Agave nectar",
+            "notes": "Same sweetness but thinner consistency."
+          }
+        ]
+      },
+      {
+        "name": "Vanilla Extract",
+        "category": "Flavor",
+        "swaps": [
+          {
+            "substitute": "Maple syrup",
+            "notes": "Adds sweetness with a different flavor note."
+          },
+          {
+            "substitute": "Almond extract",
+            "notes": "Stronger; use half the amount."
+          }
+        ]
+      },
+      {
+        "name": "Cream Cheese",
+        "category": "Dairy",
+        "swaps": [
+          {
+            "substitute": "Greek yogurt",
+            "notes": "Thicker, tangy alternative. Use strained yogurt for thicker consistency."
+          },
+          {
+            "substitute": "Ricotta cheese",
+            "notes": "Softer texture. Good in baked goods."
+          }
+        ]
+      }
+    ]
+  }
+  
